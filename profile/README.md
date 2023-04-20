@@ -9,9 +9,9 @@ Our organization is dedicated to creating cutting-edge software solutions that m
 We welcome contributions from the community! If you're interested in contributing to one of our repositories, please take a look at the guidelines outlined in the repository's README file. If you have any questions, feel free to reach out to us on our Discord server.
 
 ## 👩‍💻 Useful resources
-You can find documentation for our projects on our website, [ingenuitybytes.org](https://ingenuitybytes.org). We also have an active community on our Discord server, where you can ask questions and collaborate with other developers.
+You can find documentation for our projects on our website, [ingenuitybytes.org](https://ingenuitybytes.io). We also have an active community on our Discord server, where you can ask questions and collaborate with other developers.
 
 ## 🍿 Fun facts
 - Our team loves to eat pancakes for breakfast!
-- We hold hackathons every quarter to encourage creativity and collaboration within our organization.
-- Our logo was designed by a high school student who won a design contest we hosted last year.
+-Our organization was founded by a group of friends who met in a computer science class in college.
+-We have a company mascot named "Bytey", who is a pixelated robot that can be found on our website and social media accounts.
