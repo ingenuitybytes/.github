@@ -15,4 +15,5 @@ You can find documentation for our projects on our website, [ingenuitybytes.gith
 - Our team loves to eat pancakes for breakfast!
 - Our organization was founded by a group of friends who met in a computer science class in college.
 - We have a company mascot named "Bytey", who is a pixelated robot that can be found on our website and social media accounts.
-- Disclaimer: This description was not written by ChatGPT. We swear! 😉
+
+**Disclaimer: This description was not written by ChatGPT. We swear!** 😉
