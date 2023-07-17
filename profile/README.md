@@ -12,4 +12,4 @@ We welcome contributions from the community! If you're interested in contributin
 You can find documentation for our projects on our website, [ingenuitybytes.github.io](https://ingenuitybytes.github.io). We also have an active community on our Discord server, where you can ask questions and collaborate with other developers.
 obot that can be found on our website and social media accounts.
 
-**Disclaimer: This description was not written by ChatGPT. We swear!** 😉
+**Disclaimer: This description was not written by ChatGPT. We swear!**
