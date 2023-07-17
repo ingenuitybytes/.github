@@ -10,10 +10,6 @@ We welcome contributions from the community! If you're interested in contributin
 
 ## 👩‍💻 Useful resources
 You can find documentation for our projects on our website, [ingenuitybytes.github.io](https://ingenuitybytes.github.io). We also have an active community on our Discord server, where you can ask questions and collaborate with other developers.
-
-## 🍿 Fun facts
-- Our team loves to eat pancakes for breakfast!
-- Our organization was founded by a group of friends who met in a computer science class in college.
-- We have a company mascot named "Bytey", who is a pixelated robot that can be found on our website and social media accounts.
+obot that can be found on our website and social media accounts.
 
 **Disclaimer: This description was not written by ChatGPT. We swear!** 😉
